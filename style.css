@@ -2,11 +2,14 @@ h2{
     color:green;
     background:red;
     display:inline;
-  
+    font-size:3rem;
+    font-family: 'Yellowtail', cursive;
+
   }
   
   span{
     background: red;
+    font-family: 'Nanum Gothic', sans-serif;
   }
   
   #mylist{
