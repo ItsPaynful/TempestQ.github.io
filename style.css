@@ -1,0 +1,29 @@
+h2{
+    color:green;
+    background:red;
+    display:inline;
+  
+  }
+  
+  span{
+    background: red;
+  }
+  
+  #mylist{
+    color:red;
+  }
+  
+  body{
+    background:whitesmoke;
+    text-align: center;
+  }
+  
+  #firstcolor{
+    color:lightblue;
+    background:darkblue;
+  }
+  
+  #secondcolor{
+    color:brown;
+    background:orange;
+  }
